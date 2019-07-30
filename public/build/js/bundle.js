@@ -1,0 +1,1 @@
+function vendorModule(){console.log("test6")}function main(){}function main2(){}function main3(){console.log("test")}function main7(){}function module1(){}function module2(){}
